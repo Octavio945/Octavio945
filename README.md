@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, I'm Octavio Michel 👋  
 
-<!--
-**Octavio945/Octavio945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Architecture Student** | 🎨 **Designer & Developer** | 🎵 **Music Enthusiast**  
 
-Here are some ideas to get you started:
+🚀 Passionate about web and software development, I love building robust and innovative applications.  
+🎨 I also have a strong eye for design, allowing me to create modern and engaging user interfaces.  
+🎵 When I'm not coding, you'll probably find me playing the piano or exploring new musical sounds.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I'm working on  
+- 📌 Developing applications with **Laravel, Express.js & React**  
+- 🖥️ Experimenting with **Power BI & Data Analytics**  
+- 🏗️ Building innovative projects that combine **tech and design**  
+
+### 🌱 What I'm currently learning  
+- 🚀 Deepening my knowledge of **software architecture**  
+- 💾 Exploring **database systems**  
+- 🔌 Creating high-performance and secure APIs  
+
+### 🤝 Let's collaborate!  
+I'm open to collaborations on web, AI, or design projects! Feel free to reach out.  
+
+📫 **How to reach me:**  
+- ✉️ [Email](mailto:octaviohounye123@gmail.com)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/Octavio michel HOUNYE](https://www.linkedin.com/in/octavio-michel-hounye-15648931a)  
+
+⚡ **Fun fact:** I can spend hours perfecting a design or searching for the perfect chord on the piano 🎶  
