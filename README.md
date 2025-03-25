@@ -21,6 +21,6 @@ I'm open to collaborations on web, AI, or design projects! Feel free to reach ou
 
 📫 **How to reach me:**  
 - ✉️ [Email](mailto:octaviohounye123@gmail.com)  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/Octavio michel HOUNYE](https://www.linkedin.com/in/octavio-michel-hounye-15648931a)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/octavio-michel-hounye-15648931a)  
 
 ⚡ **Fun fact:** I can spend hours perfecting a design or searching for the perfect chord on the piano 🎶  
